@@ -874,7 +874,7 @@ class CfgLoot {
 		{"equip_1inch_metal_pipe",0.03},
 		{"equip_2inch_metal_pipe",0.03},
 		{"equip_rail_screws",0.03},
-		{"equip_weapon_rails",0.03},
+		//{"equip_weapon_rails",0.03},
 		{"equip_scrap_metal",0.03}
 	};
 	
